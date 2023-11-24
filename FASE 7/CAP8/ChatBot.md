@@ -55,7 +55,7 @@ Usaremos o node-red e o Watson Assistent para fazer uma integração:
 
 1- Para isso acesse cloud.ibm, e acesse o link "Add integration"> Selecione Facebook Messenger> Create
 
-![Alt text](image-2.png)
+![Alt text](image-3.png)
 
 2- Voce precisa preenche o seu secret do meta developer
 3- Voce precisa criar um app > Selecione a Opção "Outro">Selecione a opção conveniente
